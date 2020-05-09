@@ -1,0 +1,6 @@
+#set(CLANG_CONFIG_LLVM_DIR /home/skhadka/local/lib/cmake/clang)
+#set(CMAKE_MODULE_PATH "/home/skhadka/local/lib/cmake/clang;/home/skhadka/local/lib/cmake/llvm")
+
+Use LibTooling for high level apis (they might break once in a while)
+
+Use LibClang which is the C API for a stable API

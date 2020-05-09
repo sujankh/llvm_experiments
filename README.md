@@ -5,5 +5,5 @@ cd build
 cmake ..
 cd enum_to_string
 make
-./visitor <path to src>/enum_to_string/test.cc
+./enum_to_str <path to src>/enum_to_string/test.cc
 ```
